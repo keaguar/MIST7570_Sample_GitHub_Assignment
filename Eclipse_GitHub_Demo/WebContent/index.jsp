@@ -26,6 +26,7 @@
 			<td>Christina T.</td>
 			<td>Sam W.</td>
 			<td>Akaash S.</td>
+			<td>Kyle W.</td>
 		</tr>
     <tr>
 			<td>Sam P.</td>
