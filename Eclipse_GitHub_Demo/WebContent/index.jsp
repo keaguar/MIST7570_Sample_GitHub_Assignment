@@ -23,6 +23,15 @@
 	<table border=1>
 		<tr>
 			<td>Karen A.</td>
+			<tb>Alexander R.</tb>
+			<td>Christina T.</td>
+			<td>Sam W.</td>
+			<td>Akaash S.</td>
+			<td>Rayianna D.</td>
+			<td> Chadwick H. </td>
+		</tr>
+    <tr>
+			<td>Sam P.</td>
 		</tr>
 	</table>
 </body>
