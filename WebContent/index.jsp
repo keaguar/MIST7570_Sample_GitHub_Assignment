@@ -65,8 +65,9 @@
 		<tr>
 			<td><b><em>Dan M.</em></b></td>
 		</tr>
-				<tr>
-			<td>Brandon R.</td>
+			
+	<tr>
+			<td>Sierra K</td>
 		</tr>
 	</table>
 </body>
