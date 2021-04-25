@@ -27,8 +27,9 @@
 			<td>Christina T.</td>
 		</tr>
 		<tr>
-		<td>Sam W.</td>
+			<td>Sam W.</td>
 		</tr>
+		
 		<tr>
 			<td>Akaash S.</td>
 		</tr>
@@ -65,9 +66,23 @@
 		<tr>
 			<td><b><em>Dan M.</em></b></td>
 		</tr>
-			
-	<tr>
-			<td>Sierra K</td>
+				<tr>
+			<td>Brandon R.</td>
+		</tr>
+		<tr>
+			<td> Ruperto (PJ) M. </td>
+		</tr>
+		<tr>
+		    <td>Asish D.</td>
+		</tr>
+		<tr>
+			<td>Matt H.</td>
+		</tr>
+		<tr>
+			<td>Harli B.</td>
+		</tr>
+		<tr>
+			<td>KoRhonda R.</td>
 		</tr>
 	</table>
 </body>
