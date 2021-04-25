@@ -78,9 +78,11 @@
 		<tr>
 			<td>Matt H.</td>
 		</tr>
+		
 		<tr>
-			<td>Harli B.</td>
+			<td>Claire S.</td>
 		</tr>
+		
 	</table>
 </body>
 </html>
