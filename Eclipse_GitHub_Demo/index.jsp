@@ -29,11 +29,11 @@
 		<tr>
 			<td>Sam W.</td>
 		</tr>
-		
+
 		<tr>
 			<td>Akaash S.</td>
 		</tr>
-		
+
 		<td>Rayianna D.</td>
 		<td>Chadwick H.</td>
 	 	<tr>
@@ -41,10 +41,10 @@
 		</tr>
 		<tr>
 		<td>Robert Carlisle</td>
-	</tr>	
+	</tr>
 	<tr>
 		<td>Jeff Erisman</td>
-	</tr>	
+	</tr>
 		<tr>
 			<td>Sam P.</td>
 		</tr>
@@ -90,7 +90,10 @@
 		<tr>
 			<td>Casey P.</td>
 		</tr>
-		
+		<tr>
+			<td>Emily Mautz</td>
+		</tr>
+
 	</table>
 </body>
 </html>
