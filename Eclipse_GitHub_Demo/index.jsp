@@ -93,6 +93,9 @@
 		<tr>
 			<td>Emily Mautz</td>
 		</tr>
+		<tr>
+			<td>Shaina P.</td>
+		</tr>
 
 	</table>
 </body>
