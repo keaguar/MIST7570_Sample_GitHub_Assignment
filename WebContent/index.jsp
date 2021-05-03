@@ -69,6 +69,9 @@
 	<tr>
 			<td>Sierra K</td>
 		</tr>
+		<tr>
+			<td>Nicole R.</td>
+		</tr>
 	</table>
 </body>
 </html>
