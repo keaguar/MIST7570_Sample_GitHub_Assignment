@@ -55,6 +55,9 @@
 			<td>Dustin A.</td>
 		</tr>
 		<tr>
+			<td>James R.</td>
+		</tr>
+		<tr>
 			<td>Eddie G.</td>
 		</tr>
 		<tr>
